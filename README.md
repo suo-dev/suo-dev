@@ -1,4 +1,5 @@
-## Hi there, I'm a penguin who writes code!
+## Hi there
+I'm a penguin who writes code!
 
 <!--
 **suo-dev/suo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
